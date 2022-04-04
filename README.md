@@ -1,3 +1,3 @@
 # plotly-chart
 
-Bellybutton Biodiversity (ddavis1223.github.io)
+https://ddavis1223.github.io/plotly-chart/
